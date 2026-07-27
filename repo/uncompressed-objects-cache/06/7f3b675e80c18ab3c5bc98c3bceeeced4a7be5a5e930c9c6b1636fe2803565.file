@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<components version="0.8" origin="flatpak">
+  <component type="desktop-application">
+    <id>io.github.andresmessina_SDG.Scriptura</id>
+    <name>Scriptura</name>
+    <summary>Read and study the Bible in depth</summary>
+    <project_license>GPL-3.0-or-later</project_license>
+    <description>
+      <p>
+      Scriptura is a focused Bible study application for the Linux
+      desktop. A calm, two-pane reading view sits at its center, with a
+      full study library never more than a click away.
+    </p>
+      <p>It brings together:</p>
+      <ul>
+        <li>Side-by-side reading of two translations with synchronized scrolling, plus a distraction-free reading mode.</li>
+        <li>Original-language word study — click any word for its Hebrew or Greek root, its grammar, and every other place it appears.</li>
+        <li>A database of 340,000 cross-references linking related passages.</li>
+        <li>Highlights, notes, and topical tags, all gathered into one searchable study journal.</li>
+        <li>Full-text search across any installed text, and reading plans that track your progress day by day.</li>
+        <li>A large, installable library of modern and classic Bibles, commentaries, devotionals, and reference works.</li>
+      </ul>
+      <p>
+      Everything is stored on your computer with no telemetry. Scriptura
+      connects to the network only to download the texts and reference
+      data you choose.
+    </p>
+    </description>
+    <developer id="io.github.andresmessina_sdg">
+      <name>Andres Messina</name>
+    </developer>
+    <developer_name>Andres Messina</developer_name>
+    <launchable type="desktop-id">io.github.andresmessina_SDG.Scriptura.desktop</launchable>
+    <icon type="cached" width="48" height="48">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="64" height="64">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="64" height="64" scale="2">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="128" height="128">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="128" height="128" scale="2">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="stock">io.github.andresmessina_SDG.Scriptura</icon>
+    <url type="homepage">https://github.com/andresmessina-SDG/scriptura</url>
+    <url type="bugtracker">https://github.com/andresmessina-SDG/scriptura/issues</url>
+    <url type="donation">https://ko-fi.com/andresmessina</url>
+    <url type="vcs-browser">https://github.com/andresmessina-SDG/scriptura</url>
+    <url type="contribute">https://github.com/andresmessina-SDG/scriptura</url>
+    <categories>
+      <category>Education</category>
+      <category>Literature</category>
+    </categories>
+    <provides>
+      <mediatype>x-scheme-handler/bible</mediatype>
+    </provides>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Two-pane reading with the Strong&apos;s lexicon open on a Greek word</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/01-two-pane-lexicon.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>The Greek New Testament interlinear — gloss, parsing, and Strong&apos;s number under every word</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/06-interlinear-greek.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>The Historical Commentaries pane — the church&apos;s voices on a verse, across the centuries</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/02-historical-commentaries.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>Study Journal — every annotation in one filterable surface</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/03-study-journal.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>Built-in reading plans with day-by-day progress</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/04-reading-plan.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>F11 reading mode hides all chrome for distraction-free reading</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/05-reading-mode-dark.png</image>
+      </screenshot>
+    </screenshots>
+    <keywords>
+      <keyword>Bible</keyword>
+      <keyword>Scripture</keyword>
+      <keyword>Study</keyword>
+      <keyword>SWORD</keyword>
+      <keyword>Lexicon</keyword>
+      <keyword>Strong&apos;s</keyword>
+      <keyword>Devotional</keyword>
+      <keyword>Commentary</keyword>
+    </keywords>
+    <branding>
+      <color type="primary" scheme_preference="light">#8B6520</color>
+      <color type="primary" scheme_preference="dark">#C49B35</color>
+    </branding>
+    <releases>
+      <release type="stable" version="1.4.0" timestamp="1785110400">
+        <description>
+          <p>Chapters read aloud, and passages you can take with you.</p>
+          <ul>
+            <li>Chapters read aloud, in the Berean Standard Bible&apos;s own narration. A listening pill sits quietly at the foot of the page: skip back fifteen seconds, set the pace anywhere from 0.75× to 2×, and keep listening as you turn to the next chapter.</li>
+            <li>Spoken devotionals from their publishers&apos; own feeds — Spurgeon&apos;s Morning and Evening, the Psalms read one at a time, and the day&apos;s Daily Strength reading on the Today page.</li>
+            <li>Take a passage with you. Export it as a study worksheet in Markdown or plain text, carrying your own notes and highlights, with optional interlinear, textual-variant and church-fathers layers. Citations follow the SBTS/Turabian short form.</li>
+            <li>A verse as an image, set in the app&apos;s own serif on its own paper — three shapes, saved to a file or copied straight to the clipboard.</li>
+            <li>Print a passage as a study handout, paginated so no line is ever cut in half.</li>
+            <li>The section headings your translation actually ships, which until now were being dropped altogether. Move a whole thought at a time with [ and ], and see at a glance which sense-unit you are reading.</li>
+            <li>The reading pane is reachable from the keyboard throughout: step between verses and words with the arrow keys, open the lexicon, a footnote or the dictionary with Enter, and hear every move announced by a screen reader.</li>
+            <li>Every translation now gets its verse-one drop cap, and commentaries render the inline titles they carry.</li>
+            <li>More of the Roman calendar&apos;s collects, and a steadier Today page.</li>
+            <li>Modules keep installing when CrossWire&apos;s server is down: the app falls back to FTP, and then to a mirror of everything CrossWire&apos;s own licences allow anyone to redistribute.</li>
+          </ul>
+        </description>
+      </release>
+      <release type="stable" version="1.3.0" timestamp="1783641600">
+        <description>
+          <p>The original languages, word by word.</p>
+          <ul>
+            <li>Two interlinear reading surfaces — the Greek New Testament and the Hebrew Old Testament (Tyndale House data): every word carries its English gloss and parsing, with transliteration and Strong&apos;s numbers a chip away and the lexicon a click away. A Hebrew Accents chip calms the cantillation marks.</li>
+            <li>A Scholar&apos;s Greek Lexicon pack: Abbott-Smith becomes the brief Greek entry, with the full Liddell-Scott-Jones one click deeper. Scripture citations inside entries are live — click one to peek the verse in place, or send it to the other pane.</li>
+            <li>Presentation mode: press F5 to project the current passage full-screen for a projector or mirrored display, with paging through chapters, a verse-per-page toggle, live type-size control, and a side-by-side parallel view of two translations.</li>
+            <li>Maps in Scripture in Art now carry their passage as a chip — click it to drive the partnered Bible pane there. And the Historical Commentaries pane shows place chips for the verse under commentary: click one for the place&apos;s photo and identification, without displacing what you&apos;re reading.</li>
+            <li>Greek in the reading panes now renders with correctly composed accents on systems where the default serif drew them detached.</li>
+          </ul>
+        </description>
+      </release>
+      <release type="stable" version="1.2.0" timestamp="1783209600">
+        <description>
+          <p>Getting started, made discoverable.</p>
+          <ul>
+            <li>A new Tips &amp; Gestures guide, reachable from the menu, gathers every reading gesture in one place.</li>
+            <li>Gentle one-time tips point out hidden gestures — like tapping a verse for its cross-references — the first time each is useful, then never again. You can turn them off any time.</li>
+          </ul>
+        </description>
+      </release>
+      <release type="stable" version="1.1.0" timestamp="1782604800">
+        <description>
+          <p>Customizable reading appearance.</p>
+          <ul>
+            <li>New Appearance panel: pick a reading paper — Paper, White, Sepia, Green, or a custom colour — with text colour that adapts to the page (a warm ink on sepia, and so on).</li>
+            <li>Bold and justified text move to compact controls beside the font, and the menu&apos;s sections gain a clearer, calmer layout.</li>
+            <li>Redesigned reading plans with a Today view and a month calendar of your progress.</li>
+            <li>Fixed faint text trails when scrolling the reading view under Flatpak.</li>
+          </ul>
+        </description>
+      </release>
+    </releases>
+    <content_rating type="oars-1.1">
+      <content_attribute id="violence-cartoon">none</content_attribute>
+      <content_attribute id="violence-fantasy">none</content_attribute>
+      <content_attribute id="violence-realistic">none</content_attribute>
+      <content_attribute id="violence-bloodshed">none</content_attribute>
+      <content_attribute id="violence-sexual">none</content_attribute>
+      <content_attribute id="violence-desecration">none</content_attribute>
+      <content_attribute id="violence-slavery">none</content_attribute>
+      <content_attribute id="violence-worship">none</content_attribute>
+      <content_attribute id="drugs-alcohol">none</content_attribute>
+      <content_attribute id="drugs-narcotics">none</content_attribute>
+      <content_attribute id="drugs-tobacco">none</content_attribute>
+      <content_attribute id="sex-nudity">none</content_attribute>
+      <content_attribute id="sex-themes">none</content_attribute>
+      <content_attribute id="sex-homosexuality">none</content_attribute>
+      <content_attribute id="sex-prostitution">none</content_attribute>
+      <content_attribute id="sex-adultery">none</content_attribute>
+      <content_attribute id="sex-appearance">none</content_attribute>
+      <content_attribute id="language-profanity">none</content_attribute>
+      <content_attribute id="language-humor">none</content_attribute>
+      <content_attribute id="language-discrimination">none</content_attribute>
+      <content_attribute id="social-chat">none</content_attribute>
+      <content_attribute id="social-info">none</content_attribute>
+      <content_attribute id="social-audio">none</content_attribute>
+      <content_attribute id="social-location">none</content_attribute>
+      <content_attribute id="social-contacts">none</content_attribute>
+      <content_attribute id="money-purchasing">none</content_attribute>
+      <content_attribute id="money-gambling">none</content_attribute>
+    </content_rating>
+    <bundle type="flatpak" runtime="org.gnome.Platform/x86_64/50" sdk="org.gnome.Sdk/x86_64/50">app/io.github.andresmessina_SDG.Scriptura/x86_64/master</bundle>
+  </component>
+</components>
