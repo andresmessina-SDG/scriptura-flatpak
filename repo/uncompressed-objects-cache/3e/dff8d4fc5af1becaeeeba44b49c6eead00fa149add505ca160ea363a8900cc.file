@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<components version="0.8" origin="flatpak">
+  <component type="desktop-application">
+    <id>io.github.andresmessina_SDG.Scriptura</id>
+    <name>Scriptura</name>
+    <name xml:lang="es">Scriptura</name>
+    <name xml:lang="ru">Scriptura</name>
+    <summary>Read and study the Bible in depth</summary>
+    <summary xml:lang="es">Lea y estudie la Biblia a fondo</summary>
+    <summary xml:lang="ru">Читайте и изучайте Библию вглубь</summary>
+    <project_license>GPL-3.0-or-later</project_license>
+    <description>
+      <p>
+      Scriptura is a focused Bible study application for the Linux
+      desktop. A calm, two-pane reading view sits at its center, with a
+      full study library never more than a click away.
+    </p>
+      <p>It brings together:</p>
+      <ul>
+        <li>Side-by-side reading of two translations with synchronized scrolling, plus a distraction-free reading mode.</li>
+        <li>Original-language word study — click any word for its Hebrew or Greek root, its grammar, and every other place it appears.</li>
+        <li>A database of 340,000 cross-references linking related passages.</li>
+        <li>Highlights, notes, and topical tags, all gathered into one searchable study journal.</li>
+        <li>Full-text search across any installed text, and reading plans that track your progress day by day.</li>
+        <li>A large, installable library of modern and classic Bibles, commentaries, devotionals, and reference works.</li>
+      </ul>
+      <p>
+      Everything is stored on your computer with no telemetry. Scriptura
+      connects to the network only to download the texts and reference
+      data you choose.
+    </p>
+    </description>
+    <description xml:lang="es">
+      <p>Scriptura es una aplicación de estudio bíblico para el escritorio de Linux. En su centro hay una vista de lectura serena, de dos paneles, con una biblioteca de estudio completa siempre a un clic.</p>
+      <p>Reúne:</p>
+      <ul>
+        <li>Lectura en paralelo de dos traducciones con desplazamiento sincronizado, y un modo de lectura sin distracciones.</li>
+        <li>Estudio de palabras en las lenguas originales: pulse cualquier palabra para ver su raíz hebrea o griega, su gramática y todos los demás lugares donde aparece.</li>
+        <li>Una base de datos de 340 000 referencias cruzadas que enlaza pasajes relacionados.</li>
+        <li>Resaltados, notas y etiquetas temáticas, reunidos en un diario de estudio en el que se puede buscar.</li>
+        <li>Búsqueda de texto completo en cualquier texto instalado, y planes de lectura que siguen su avance día a día.</li>
+        <li>Una amplia biblioteca instalable de Biblias modernas y clásicas, comentarios, devocionales y obras de consulta.</li>
+      </ul>
+      <p>Todo se guarda en su equipo y no hay telemetría. Scriptura se conecta a la red únicamente para descargar los textos y los datos de consulta que usted elija.</p>
+    </description>
+    <description xml:lang="ru">
+      <p>Scriptura — сосредоточенное приложение для изучения Библии на рабочем столе Linux. В центре — спокойное чтение в две панели, а полная библиотека для изучения всегда в одном щелчке.</p>
+      <p>Оно объединяет:</p>
+      <ul>
+        <li>Чтение двух переводов рядом с синхронной прокруткой и режим чтения без отвлекающих элементов.</li>
+        <li>Изучение слов на языке оригинала — щёлкните любое слово, чтобы увидеть его еврейский или греческий корень, грамматику и все другие места, где оно встречается.</li>
+        <li>База из 340 000 перекрёстных ссылок, связывающих родственные места Писания.</li>
+        <li>Выделения, заметки и тематические метки, собранные в один дневник изучения с поиском.</li>
+        <li>Полнотекстовый поиск по любому установленному тексту и планы чтения, отмечающие ваш путь день за днём.</li>
+        <li>Большая библиотека современных и классических переводов Библии, комментариев, размышлений и справочных трудов, доступных для установки.</li>
+      </ul>
+      <p>Всё хранится на вашем компьютере, без сбора данных. Scriptura обращается к сети только чтобы загрузить тексты и справочные данные, которые вы выбрали.</p>
+    </description>
+    <developer id="io.github.andresmessina_sdg">
+      <name>Andres Messina</name>
+      <name xml:lang="es">Andres Messina</name>
+      <name xml:lang="ru">Андрес Мессина</name>
+    </developer>
+    <developer_name>Andres Messina</developer_name>
+    <launchable type="desktop-id">io.github.andresmessina_SDG.Scriptura.desktop</launchable>
+    <icon type="cached" width="48" height="48">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="64" height="64">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="64" height="64" scale="2">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="128" height="128">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="128" height="128" scale="2">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="stock">io.github.andresmessina_SDG.Scriptura</icon>
+    <url type="homepage">https://github.com/andresmessina-SDG/scriptura</url>
+    <url type="bugtracker">https://github.com/andresmessina-SDG/scriptura/issues</url>
+    <url type="donation">https://ko-fi.com/andresmessina</url>
+    <url type="vcs-browser">https://github.com/andresmessina-SDG/scriptura</url>
+    <url type="contribute">https://github.com/andresmessina-SDG/scriptura</url>
+    <categories>
+      <category>Education</category>
+      <category>Literature</category>
+    </categories>
+    <provides>
+      <mediatype>x-scheme-handler/bible</mediatype>
+    </provides>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Two-pane reading with the Strong&apos;s lexicon open on a Greek word</caption>
+        <caption xml:lang="es">Lectura a dos paneles con el léxico de Strong abierto en una palabra griega</caption>
+        <caption xml:lang="ru">Чтение в две панели с открытым словарём Стронга на греческом слове</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/01-two-pane-lexicon.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>The Greek New Testament interlinear — gloss, parsing, and Strong&apos;s number under every word</caption>
+        <caption xml:lang="es">El interlineal del Nuevo Testamento griego: glosa, análisis y número de Strong bajo cada palabra</caption>
+        <caption xml:lang="ru">Подстрочник греческого Нового Завета — перевод, разбор и номер Стронга под каждым словом</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/06-interlinear-greek.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>The Historical Commentaries pane — the church&apos;s voices on a verse, across the centuries</caption>
+        <caption xml:lang="es">El panel de comentarios históricos: las voces de la Iglesia sobre un versículo, a lo largo de los siglos</caption>
+        <caption xml:lang="ru">Панель исторических комментариев — голоса Церкви о стихе, через века</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/02-historical-commentaries.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>Annotations — every mark you have made in one filterable surface</caption>
+        <caption xml:lang="es">Anotaciones: todas tus marcas en una sola vista filtrable</caption>
+        <caption xml:lang="ru">Пометки — всё, что вы отметили, на одной странице с фильтрами</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/03-study-journal.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>Built-in reading plans with day-by-day progress</caption>
+        <caption xml:lang="es">Planes de lectura integrados con avance día a día</caption>
+        <caption xml:lang="ru">Встроенные планы чтения с отметками день за днём</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/04-reading-plan.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>F11 reading mode hides all chrome for distraction-free reading</caption>
+        <caption xml:lang="es">El modo lectura (F11) oculta todos los controles para leer sin distracciones</caption>
+        <caption xml:lang="ru">Режим чтения по F11 скрывает всё лишнее ради чтения без отвлечения</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/05-reading-mode-dark.png</image>
+      </screenshot>
+    </screenshots>
+    <keywords>
+      <keyword>Bible</keyword>
+      <keyword>Scripture</keyword>
+      <keyword>Study</keyword>
+      <keyword>SWORD</keyword>
+      <keyword>Lexicon</keyword>
+      <keyword>Strong&apos;s</keyword>
+      <keyword>Devotional</keyword>
+      <keyword>Commentary</keyword>
+    </keywords>
+    <keywords xml:lang="es">
+      <keyword>Biblia</keyword>
+      <keyword>Escritura</keyword>
+      <keyword>Estudio</keyword>
+      <keyword>SWORD</keyword>
+      <keyword>Léxico</keyword>
+      <keyword>Devocional</keyword>
+      <keyword>Comentario</keyword>
+    </keywords>
+    <keywords xml:lang="ru">
+      <keyword>Библия</keyword>
+      <keyword>Писание</keyword>
+      <keyword>Изучение</keyword>
+      <keyword>SWORD</keyword>
+      <keyword>Словарь</keyword>
+      <keyword>Ежедневное чтение</keyword>
+      <keyword>Комментарий</keyword>
+    </keywords>
+    <branding>
+      <color type="primary" scheme_preference="light">#8B6520</color>
+      <color type="primary" scheme_preference="dark">#C49B35</color>
+    </branding>
+    <releases>
+      <release type="stable" version="1.6.2" timestamp="1788998400">
+        <description>
+          <p>Two sweeps of fixes, and marks that follow the verse instead of the translation.</p>
+          <ul>
+            <li>A highlight, underline, note or tag now belongs to the verse rather than to the translation you made it in. A note written in the King James existed nowhere else; open another translation and the Bible was unmarked. Marks appear in every translation now, each numbering them its own way, and existing ones are migrated on first launch with the old file kept beside the new. The Study Journal, which was never a journal, is called Annotations, quotes the verse above the note, and records when each mark was made.</li>
+            <li>Exporting, printing, sharing or copying from a translation downloaded from eBible gave a blank page — the World English Bible the English starting library installs is one — and highlights and notes made in one landed on the wrong line, 1,126 verses of the Russian Synodal text among them.</li>
+            <li>Two eBible psalters were numbered against the wrong text: the Clementine Vulgate and the Russian Synodal merge two Hebrew psalms, so every psalm after them sat one number behind. 138 of 150 disagreed with the same texts read through SWORD; all 150 agree now.</li>
+            <li>“Match case” turned an OR search into an AND search. <code>Jesus OR Christ</code> returned 258 verses of the 1,217 it finds with the box unticked.</li>
+            <li>A link to a book your Bible has not got did nothing at all — no movement and no message. Cross-references, Strong&apos;s links, search results carried over from another translation, bookmarks and the Scripture in Stone citations all refused in silence. Any of them now says which book is missing.</li>
+            <li>The Old Calendar, kept by the Russian, Serbian, Georgian and Jerusalem Churches and by Athos, is offered beside the New. Their feasts were being named on another church&apos;s days.</li>
+            <li>The Orthodox troparion is in Church Slavonic, where a Russian reader used to be given a 1906 American translation of it in English. Stress marks are kept, and they now sit over their letters in Georgia rather than beside them.</li>
+            <li>Dates read in English whatever language the app was in, because a Flatpak carries only the languages the desktop is set up for. They come from the app&apos;s own catalogue now, in each language&apos;s own word order. The Russian church line uses the church&apos;s wording rather than the civil one.</li>
+            <li>The devotional could show any day of the year as today&apos;s reading: a devotional does not refuse a date it has not got, it answers with some other entry.</li>
+            <li>A stray space before a comma — “For God so loved the world , that he gave” — in the Today epigraph, the devotional pane, every cross-reference and every dictionary gloss, and in 34 of the 82 Anglican collects.</li>
+            <li>A highlight covered the verse number and stopped, and a freshly drawn chapter could paint its highlights beside the text they belong to until something else redrew the page.</li>
+            <li>A first run could report that no Bible was downloaded when one was, and the dictionary opened on the wrong language, both on translations that came from eBible. Exports cited such a translation by its internal id — <code>eBible: russyn</code> rather than Russian Synodal Bible.</li>
+            <li>“Bible in a Year — Blended” said four daily readings and gives four on 95 days of the 365. The plan is unchanged — no reader&apos;s schedule moves — and its description now says what it delivers.</li>
+            <li>Two highlight colours wore the same letter in Spanish, which took the cue away from the reader it exists for.</li>
+            <li>A third unreadable settings file destroyed the second instead of being set aside beside it.</li>
+          </ul>
+        </description>
+      </release>
+      <release type="stable" version="1.6.1" timestamp="1788307200">
+        <description>
+          <p>Two fixes from the first days of reading in 1.6.0.</p>
+          <ul>
+            <li>The right-click study menu did not open in the middle of the page. It was placed below the pointer, flipped above when it would not fit there, and when neither fitted it was not shown at all — so on a smaller window a band across the middle of the column answered nothing.</li>
+            <li>The Book of Generations opened at its own type size rather than yours, and jumped to yours the first time you changed it.</li>
+          </ul>
+        </description>
+      </release>
+      <release type="stable" version="1.6.0" timestamp="1788307200">
+        <description>
+          <p>Scriptura in Russian, and the lists of names drawn as a book.</p>
+          <ul>
+            <li>The app reads in Russian — every menu, dialog and hint, with the three plural forms Russian needs and the Synodal book names it expects: 1 Kings is 3-я Царств. The names are the ones Russian Bible software uses, not translations of the English.</li>
+            <li>Russian texts to read in it: a modern Russian Bible under a free licence, and the first Russian dictionary this app has ever offered, so a double-click on a Russian word answers.</li>
+            <li>The Book of Generations. Scripture keeps lists of names and readers skip them, so Scriptura draws them and binds them as a book: one genealogy to a page, from Adam to Noah through to Matthew and Luke side by side, with the ten lifespans of Genesis 5 on one axis. The charts are live — a folded run of generations opens in place, a name opens the person, a chip opens the verse — and the same geometry prints. Where a genealogy leaves generations out, the gap is drawn as a gap and cites who does name them; where Matthew and Luke disagree, both are given as their writers wrote them, with the three classical answers set out and none of them chosen.</li>
+            <li>First run asks which language you read in, and the answer leads: it sets the interface and offers that language&apos;s own Bibles, dictionary and study tools, each collection described in the language it is for.</li>
+            <li>A Spanish dictionary, where there was none. Of the 168 dictionaries the SWORD repositories carry, not one was in Spanish; this one is, and it answers ordinary vocabulary rather than proper nouns alone.</li>
+            <li>Scripture in Stone reads in your language. The gallery is curated data rather than interface text, so all 342 of its captions, introductions and glossary entries had stayed English whatever language you chose. A photographer&apos;s credit, a bibliography entry and a verse chip still read as printed, because a licence, a library catalogue and a Bible reference each need the words they were given.</li>
+            <li>Scripture in Stone opens as soon as you ask for it: it used to decode all 56 of its photographs before it would appear, and now loads them as they come into view.</li>
+            <li>The collection cards say what each language holds, counted from that language&apos;s own catalogue and written in that language.</li>
+            <li>The dictionary peek says which dictionaries were searched, instead of advice written when every dictionary was an English one.</li>
+            <li>Jumping to a reference takes the book name you are reading. «Бытие 3» and Génesis 3 — the names the book picker two inches away was showing — used to flash the box red.</li>
+            <li>Book names no longer sit in English inside a translated interface: the cross-reference chips under a verse and the per-book bars in a search chart are translated on the way out.</li>
+            <li>Translated labels stay inside the places that hold them — the paper chips and the Module Manager&apos;s tabs were cut mid-word in both translations — and the menu&apos;s cards keep their right-hand corners in every language.</li>
+            <li>A first-run download that failed for a module that exists: the cached list of available modules is refetched now whenever it has no row for something your collection asks for.</li>
+            <li>Closing the window during the first-run download no longer leaves part of a library behind. It asks, keeps whatever has arrived, and says where the rest can be found.</li>
+          </ul>
+        </description>
+        <description xml:lang="es">
+          <p>Scriptura en ruso, y las listas de nombres dibujadas como un libro.</p>
+          <ul>
+            <li>La aplicación se lee en ruso: cada menú, cada diálogo y cada aviso, con las tres formas de plural que el ruso necesita y los nombres sinodales de los libros que espera: 1 Reyes es 3-я Царств. Los términos son los que usa el software bíblico ruso, no traducciones del inglés.</li>
+            <li>Textos rusos para leer en ella: una Biblia rusa moderna con licencia libre y el primer diccionario ruso que esta aplicación ha ofrecido, de modo que el doble clic sobre una palabra rusa por fin responde.</li>
+            <li>El libro de las generaciones. La Escritura guarda listas de nombres y el lector las salta, así que Scriptura las dibuja y las encuaderna como un libro: una genealogía por página, de Adán a Noé y hasta Mateo y Lucas uno junto al otro, con las diez vidas de Génesis 5 sobre un mismo eje. Los diagramas están vivos —un tramo plegado de generaciones se abre en su sitio, un nombre abre a la persona, una ficha abre el versículo— y la misma geometría se imprime. Donde una genealogía omite generaciones, el hueco se dibuja como hueco y cita a quien sí los nombra; donde Mateo y Lucas discrepan, se dan ambos tal como los escribieron sus autores, con las tres respuestas clásicas expuestas y ninguna elegida.</li>
+            <li>El primer arranque pregunta en qué idioma lee, y la respuesta manda: fija la interfaz y ofrece las Biblias, el diccionario y las herramientas de estudio de ese idioma, y describe cada colección en el idioma al que sirve.</li>
+            <li>Un diccionario en español, donde no había ninguno. De los 168 diccionarios que llevan los repositorios SWORD, ni uno estaba en español; este sí, y responde al vocabulario corriente y no solo a los nombres propios.</li>
+            <li>La Escritura en piedra se lee en su idioma. La galería es contenido preparado y no texto de interfaz, así que sus 342 pies de foto, introducciones y entradas del glosario seguían en inglés cualquiera que fuese el idioma elegido. El crédito del fotógrafo, la entrada bibliográfica y la ficha del versículo se leen tal como están impresos, porque una licencia, un catálogo de biblioteca y una referencia bíblica necesitan cada uno las palabras que se les dieron.</li>
+            <li>La Escritura en piedra se abre en cuanto la pide: antes descodificaba sus 56 fotografías antes de aparecer, y ahora las carga a medida que entran en pantalla.</li>
+            <li>Las tarjetas de las colecciones dicen lo que tiene cada idioma, contado desde su propio catálogo y escrito en ese idioma.</li>
+            <li>La consulta del diccionario dice en qué diccionarios se buscó, en lugar del consejo escrito cuando todos los diccionarios eran ingleses.</li>
+            <li>Ir a una referencia acepta el nombre del libro que está leyendo. «Бытие 3» y Génesis 3 —los nombres que mostraba el selector de libros a dos dedos de distancia— hacían parpadear el campo en rojo.</li>
+            <li>Los nombres de los libros ya no aparecen en inglés dentro de una interfaz traducida: las fichas de referencias cruzadas bajo un versículo y las barras por libro del gráfico de búsqueda se traducen al salir.</li>
+            <li>Las etiquetas traducidas caben donde van —los nombres del papel y las pestañas del Gestor de módulos se cortaban a media palabra en ambas traducciones— y las tarjetas del menú conservan su borde derecho en todos los idiomas.</li>
+            <li>Una descarga del primer arranque que fallaba con un módulo que sí existe: la lista guardada de módulos disponibles se vuelve a pedir siempre que no tenga una fila para algo que pide su colección.</li>
+            <li>Cerrar la ventana durante la descarga del primer arranque ya no deja media biblioteca. Ahora pregunta, conserva lo que haya llegado y dice dónde encontrar el resto.</li>
+          </ul>
+        </description>
+        <description xml:lang="ru">
+          <p>Scriptura по-русски, и списки имён, начерченные как книга.</p>
+          <ul>
+            <li>Приложение говорит по-русски — каждое меню, каждый диалог и каждая подсказка, с тремя формами множественного числа, которые нужны русскому, и синодальными названиями книг: 1 Kings — это 3-я Царств. Термины взяты из русских библейских программ, а не переведены с английского.</li>
+            <li>Русские тексты, чтобы читать на нём: современная русская Библия под свободной лицензией и первый русский словарь, какой это приложение вообще предлагало, — теперь двойной щелчок по русскому слову отвечает.</li>
+            <li>Книга родословий. Библия ведёт списки имён, а читатель их пропускает, поэтому Scriptura чертит их и переплетает в книгу: по одному родословию на страницу, от Адама к Ною и далее к Матфею и Луке рядом друг с другом, с десятью сроками жизни из Бытия 5 на одной оси. Схемы живые — свёрнутый ряд поколений раскрывается на месте, имя открывает человека, метка открывает стих — и та же геометрия идёт в печать. Там, где родословие пропускает поколения, пропуск начерчен как пропуск и указывает, кто их называет; там, где Матфей и Лука расходятся, приведены оба так, как написали их авторы, с тремя классическими ответами и без выбора между ними.</li>
+            <li>Первый запуск спрашивает, на каком языке вы читаете, и ответ ведёт дальше: он задаёт язык интерфейса и предлагает Библии, словарь и средства изучения именно этого языка, описывая каждый набор на том языке, для которого он собран.</li>
+            <li>Испанский словарь там, где его не было. Из 168 словарей в репозиториях SWORD ни один не был испанским; этот — испанский, и он отвечает на обычные слова, а не только на имена собственные.</li>
+            <li>«Писание в камне» читается на вашем языке. Галерея — это подготовленные данные, а не текст интерфейса, поэтому все её 342 подписи, вступления и статьи глоссария оставались английскими, какой бы язык вы ни выбрали. Указание фотографа, библиографическая запись и метка стиха читаются так, как напечатаны: лицензии, библиотечному каталогу и библейской ссылке нужны именно те слова, которые им даны.</li>
+            <li>«Писание в камне» открывается сразу: прежде галерея расшифровывала все 56 своих фотографий, прежде чем показаться, а теперь загружает их по мере появления на экране.</li>
+            <li>Карточки наборов говорят, что есть в каждом языке, — подсчитано по его собственному каталогу и написано на нём же.</li>
+            <li>Всплывающая справка словаря сообщает, в каких словарях искали, вместо совета, написанного тогда, когда все словари были английскими.</li>
+            <li>Переход по ссылке принимает то название книги, которое вы читаете. «Бытие 3» и Génesis 3 — названия, которые показывал выбор книги в двух шагах рядом, — прежде окрашивали поле красным.</li>
+            <li>Названия книг больше не остаются английскими внутри переведённого интерфейса: метки параллельных мест под стихом и столбцы по книгам в диаграмме поиска переводятся на выходе.</li>
+            <li>Переведённые надписи умещаются там, где стоят, — названия бумаги и вкладки Менеджера модулей обрезались посреди слова в обоих переводах, — а карточки меню сохраняют правый край на любом языке.</li>
+            <li>Загрузка при первом запуске, которая не удавалась для существующего модуля: сохранённый список доступных модулей теперь перечитывается, как только в нём нет строки для того, что просит ваш набор.</li>
+            <li>Закрытие окна во время загрузки при первом запуске больше не оставляет полбиблиотеки. Приложение спрашивает, сохраняет всё, что успело прийти, и говорит, где искать остальное.</li>
+          </ul>
+        </description>
+      </release>
+      <release type="stable" version="1.5.0" timestamp="1787097600">
+        <description>
+          <p>Scriptura in Spanish, and the books it would not open.</p>
+          <ul>
+            <li>The app itself now reads in Spanish — menus, dialogs, the Module Manager, first run, the reading plans, the liturgical calendar and all 66 book names. Pick the language in the header on the first screen, or from the menu at any time; each is listed in its own name, because the reader who needs it is by definition looking at words they may not read.</li>
+            <li>Spanish Bibles to read in it: La Biblia de las Américas and the Nueva Biblia de las Américas from the Lockman Foundation, the Versión Biblia Libre, and Straubinger&apos;s, whose 13,099 footnotes are paragraph-length commentary rather than variant marks.</li>
+            <li>A Spanish reading of the whole Bible — La Biblia en Español Sencillo, all 1,189 chapters, the words on the page and the words in the ear from one publisher.</li>
+            <li>The deuterocanonical books. A translation that carries them now shows them in an appendix after Revelation, so Tobit, Judith, Sirach and the Maccabees open like any other book. Until now asking for one silently handed you Revelation instead.</li>
+            <li>Every dictionary you install now appears, whatever language it is in. So do the Strong&apos;s numbers in the Spanish texts that carry them, which the reader could search but never see.</li>
+            <li>The space between letters is yours to open, from the typeface&apos;s own metrics up to a fifth of the type size — the best-supported thing typography can do for a reader who finds text hard going. OpenDyslexic is bundled beside it, offered honestly: the evidence for it is weak, and the app says so where you choose it.</li>
+            <li>Turn on the desktop&apos;s High Contrast and the app&apos;s own edges come with it — chips, swatches, cards, buttons and panel borders all drawn above the contrast the guidelines ask of a control&apos;s boundary. Nothing moves and nothing resizes.</li>
+            <li>Quiet the rest of the page: an optional reading focus that keeps the passage you are in on lit paper and lays the rest back under a veil of that same paper. It follows your scrolling, not your cursor.</li>
+            <li>Readings appear on the desktop&apos;s media controls — the media keys, the lock screen and the Shell — named by what they are, with play, pause, skip back, speed and volume.</li>
+            <li>The app draws its own icons now, so the toolbar is the same line art on every desktop instead of whatever the local icon theme happened to supply. The window controls are still the desktop&apos;s own.</li>
+            <li>First run opens on a Bible and a commentary rather than the same text twice, installs the collection you choose for real, and hands you the gestures reference where the gestures are taught.</li>
+            <li>The page holds still. Flipping the theme, showing footnote markers, switching to old-style figures and lighting the drop cap all recolour the chapter you are reading instead of rebuilding it, and your place is held through the rebuilds that remain — including in poetry, where it used to slip.</li>
+            <li>Nineteenth-century plates join the imagery pack, and an installed pack that has fallen behind now offers its own update.</li>
+            <li>A settings file the app cannot read is set aside rather than overwritten, a backup that did not reach the disk says so, and an archive that tries to write through a symlink is refused.</li>
+          </ul>
+        </description>
+        <description xml:lang="es">
+          <p>Scriptura en español, y los libros que no abría.</p>
+          <ul>
+            <li>La aplicación misma se lee ahora en español: los menús, los diálogos, el Gestor de módulos, la primera puesta en marcha, los planes de lectura, el calendario litúrgico y los 66 nombres de los libros. Elija el idioma en la cabecera de la primera pantalla, o en el menú cuando quiera; cada uno aparece en su propio nombre, porque quien lo necesita está, por definición, mirando palabras que quizá no lee.</li>
+            <li>Biblias en español para leer en ella: La Biblia de las Américas y la Nueva Biblia de las Américas, de la Fundación Lockman, la Versión Biblia Libre y la de Straubinger, cuyas 13.099 notas son comentario de un párrafo entero y no marcas de variantes.</li>
+            <li>Una lectura en español de toda la Biblia: La Biblia en Español Sencillo, los 1189 capítulos, con las palabras de la página y las del oído salidas de un mismo editor.</li>
+            <li>Los libros deuterocanónicos. La traducción que los trae los muestra ahora en un apéndice después del Apocalipsis, de modo que Tobías, Judit, el Eclesiástico y los Macabeos se abren como cualquier otro libro. Hasta ahora, pedir uno le entregaba el Apocalipsis sin decir nada.</li>
+            <li>Todo diccionario que instale aparece ahora, sea cual sea su idioma. También los números Strong de los textos en español que los llevan, que el lector podía buscar pero nunca ver.</li>
+            <li>El espacio entre letras queda en sus manos, desde las medidas propias de la letra hasta una quinta parte del cuerpo del texto: es lo mejor sostenido que la tipografía puede hacer por quien lee con dificultad. OpenDyslexic viene incluida a su lado, ofrecida con honradez: la evidencia a su favor es débil, y la aplicación lo dice allí donde usted la elige.</li>
+            <li>Active el Contraste alto del escritorio y los bordes propios de la aplicación lo acompañan: las fichas, las muestras de color, las tarjetas, los botones y los cantos de los paneles se dibujan por encima del contraste que las pautas piden para el límite de un control. Nada se mueve y nada cambia de tamaño.</li>
+            <li>Aquietar el resto de la página: un enfoque de lectura opcional que mantiene el pasaje en el que va sobre papel iluminado y recuesta lo demás bajo un velo de ese mismo papel. Sigue su desplazamiento, no su cursor.</li>
+            <li>Las lecturas aparecen en los controles multimedia del escritorio —las teclas de medios, la pantalla de bloqueo y el Shell— con el nombre de lo que son, y con reproducir, pausar, retroceder, velocidad y volumen.</li>
+            <li>La aplicación dibuja ahora sus propios iconos, así que la barra de herramientas es el mismo trazo en todos los escritorios y no lo que aportara el tema de iconos de cada uno. Los controles de la ventana siguen siendo los del escritorio.</li>
+            <li>La primera puesta en marcha abre una Biblia y un comentario, en lugar del mismo texto dos veces, instala de verdad la colección que usted elija y le entrega la referencia de gestos allí donde los gestos se enseñan.</li>
+            <li>La página se queda quieta. Cambiar de tema, mostrar las llamadas de nota, pasar a las cifras antiguas y encender la capitular vuelven a colorear el capítulo que está leyendo en vez de rehacerlo, y su sitio se conserva en las reconstrucciones que quedan, también en la poesía, donde antes se perdía.</li>
+            <li>Las láminas del siglo XIX se suman al paquete de imágenes, y un paquete ya instalado que se haya quedado atrás ofrece ahora su propia actualización.</li>
+            <li>Un archivo de ajustes que la aplicación no puede leer se aparta en vez de sobrescribirse, una copia de seguridad que no llegó al disco lo dice, y un archivo comprimido que intenta escribir a través de un enlace simbólico se rechaza.</li>
+          </ul>
+        </description>
+        <description xml:lang="ru">
+          <p>Scriptura по-испански и книги, которые она не открывала.</p>
+          <ul>
+            <li>Само приложение теперь говорит по-испански — меню, диалоги, менеджер модулей, первый запуск, планы чтения, церковный календарь и все 66 названий книг. Выберите язык в заголовке первого экрана или в меню в любое время; каждый назван на своём языке, ведь читатель, которому это нужно, по определению смотрит на слова, которых может не понимать.</li>
+            <li>Испанские переводы, чтобы читать на нём: La Biblia de las Américas и Nueva Biblia de las Américas от Lockman Foundation, Versión Biblia Libre и перевод Штраубингера, чьи 13 099 сносок — это комментарий длиной в абзац, а не пометки о разночтениях.</li>
+            <li>Испанское чтение всей Библии — La Biblia en Español Sencillo, все 1189 глав: слова на странице и слова в ухе от одного издателя.</li>
+            <li>Второканонические книги. Перевод, который их содержит, теперь показывает их в приложении после Откровения, так что Товит, Иудифь, Сирах и Маккавейские книги открываются как любые другие. Прежде запрос такой книги молча выдавал Откровение.</li>
+            <li>Теперь появляется каждый установленный словарь, на каком бы языке он ни был. И номера Стронга в испанских текстах, которые их несут, — читатель мог искать по ним, но никогда их не видел.</li>
+            <li>Расстояние между буквами теперь в ваших руках: от собственных метрик шрифта до пятой части кегля — лучшее, что типографика подтверждённо может сделать для читателя, которому текст даётся трудно. Рядом с этим предлагается OpenDyslexic, и предлагается честно: доказательства его пользы слабы, и приложение прямо говорит об этом там, где вы его выбираете.</li>
+            <li>Включите высокую контрастность рабочего стола — и собственные края приложения последуют за ней: метки, образцы цвета, карточки, кнопки и границы панелей отрисованы с контрастом выше того, которого рекомендации требуют от границы элемента управления. Ничто не сдвигается и не меняет размер.</li>
+            <li>Приглушите остальную страницу: необязательный фокус чтения оставляет отрывок, который вы читаете, на освещённой бумаге, а остальное укладывает под вуаль из той же бумаги. Он следует за вашей прокруткой, а не за курсором.</li>
+            <li>Чтения появляются в мультимедийных элементах рабочего стола — на мультимедийных клавишах, экране блокировки и в оболочке — названные по существу, с воспроизведением, паузой, возвратом, скоростью и громкостью.</li>
+            <li>Приложение теперь рисует собственные значки, поэтому панель инструментов выглядит одинаково на любом рабочем столе, а не так, как случится в местной теме значков. Кнопки управления окном по-прежнему принадлежат рабочему столу.</li>
+            <li>Первый запуск открывает Библию и комментарий, а не один и тот же текст дважды, по-настоящему устанавливает выбранное вами собрание и даёт справочник жестов там, где этим жестам учат.</li>
+            <li>Страница стоит на месте. Смена темы, показ значков сносок, переход на старостильные цифры и подсветка буквицы теперь перекрашивают читаемую главу, а не перестраивают её, и ваше место сохраняется при тех перестроениях, что остались, — в том числе в поэзии, где оно прежде терялось.</li>
+            <li>К набору изображений добавились гравюры XIX века, а установленный набор, который отстал, теперь сам предлагает обновление.</li>
+            <li>Файл настроек, который приложение не может прочитать, откладывается в сторону, а не переписывается; резервная копия, не дошедшая до диска, говорит об этом; архив, пытающийся писать через символическую ссылку, отклоняется.</li>
+          </ul>
+        </description>
+      </release>
+    </releases>
+    <content_rating type="oars-1.1">
+      <content_attribute id="violence-cartoon">none</content_attribute>
+      <content_attribute id="violence-fantasy">none</content_attribute>
+      <content_attribute id="violence-realistic">none</content_attribute>
+      <content_attribute id="violence-bloodshed">none</content_attribute>
+      <content_attribute id="violence-sexual">none</content_attribute>
+      <content_attribute id="violence-desecration">none</content_attribute>
+      <content_attribute id="violence-slavery">none</content_attribute>
+      <content_attribute id="violence-worship">none</content_attribute>
+      <content_attribute id="drugs-alcohol">none</content_attribute>
+      <content_attribute id="drugs-narcotics">none</content_attribute>
+      <content_attribute id="drugs-tobacco">none</content_attribute>
+      <content_attribute id="sex-nudity">none</content_attribute>
+      <content_attribute id="sex-themes">none</content_attribute>
+      <content_attribute id="sex-homosexuality">none</content_attribute>
+      <content_attribute id="sex-prostitution">none</content_attribute>
+      <content_attribute id="sex-adultery">none</content_attribute>
+      <content_attribute id="sex-appearance">none</content_attribute>
+      <content_attribute id="language-profanity">none</content_attribute>
+      <content_attribute id="language-humor">none</content_attribute>
+      <content_attribute id="language-discrimination">none</content_attribute>
+      <content_attribute id="social-chat">none</content_attribute>
+      <content_attribute id="social-info">none</content_attribute>
+      <content_attribute id="social-audio">none</content_attribute>
+      <content_attribute id="social-location">none</content_attribute>
+      <content_attribute id="social-contacts">none</content_attribute>
+      <content_attribute id="money-purchasing">none</content_attribute>
+      <content_attribute id="money-gambling">none</content_attribute>
+    </content_rating>
+    <bundle type="flatpak" runtime="org.gnome.Platform/x86_64/50" sdk="org.gnome.Sdk/x86_64/50">app/io.github.andresmessina_SDG.Scriptura/x86_64/master</bundle>
+  </component>
+</components>
