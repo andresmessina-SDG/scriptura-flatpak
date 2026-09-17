@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<components version="0.8" origin="flatpak">
+  <component type="desktop-application">
+    <id>io.github.andresmessina_SDG.Scriptura</id>
+    <name>Scriptura</name>
+    <name xml:lang="es">Scriptura</name>
+    <name xml:lang="ru">Scriptura</name>
+    <summary>Read and study the Bible in depth</summary>
+    <summary xml:lang="es">Lea y estudie la Biblia a fondo</summary>
+    <summary xml:lang="ru">Читайте и изучайте Библию вглубь</summary>
+    <project_license>GPL-3.0-or-later</project_license>
+    <description>
+      <p>
+      Scriptura is a Bible study app for the Linux desktop. Read two
+      translations side by side, with a full study library a click away.
+    </p>
+      <p>It brings together:</p>
+      <ul>
+        <li>Two translations side by side that move together, a reading mode with nothing else on screen, and a full-screen mode for a projector.</li>
+        <li>The Greek and Hebrew behind the text: click a word for its meaning and grammar, or read an interlinear word by word.</li>
+        <li>Commentaries, devotionals and confessions, and how the church read each verse from the early fathers to the Reformers.</li>
+        <li>340,000 cross-references, and fast search across any text you install.</li>
+        <li>Highlights, notes and tags that show in every translation.</li>
+        <li>A journal and sermon manuscripts, with your notes on the passage close at hand.</li>
+        <li>Reading plans, and a Today page with the day&apos;s reading.</li>
+        <li>Chapters and devotionals read aloud.</li>
+        <li>Paintings, maps and archaeology for the passage you read, and the Bible&apos;s family lists drawn as charts.</li>
+        <li>English, Spanish and Russian, with Bibles and dictionaries in each.</li>
+      </ul>
+      <p>
+      Everything stays on your computer, with no account and no tracking.
+      Scriptura goes online only to download the texts you choose.
+    </p>
+    </description>
+    <description xml:lang="es">
+      <p>Scriptura es una aplicación de estudio bíblico para el escritorio Linux. Lea dos traducciones lado a lado, con toda una biblioteca de estudio a un clic.</p>
+      <p>Reúne:</p>
+      <ul>
+        <li>Dos traducciones lado a lado que avanzan juntas, un modo de lectura sin nada más en pantalla y un modo a pantalla completa para proyector.</li>
+        <li>El griego y el hebreo detrás del texto: haga clic en una palabra para ver su significado y su gramática, o lea un interlineal palabra por palabra.</li>
+        <li>Comentarios, devocionales y confesiones, y cómo leyó la iglesia cada versículo, desde los primeros padres hasta los reformadores.</li>
+        <li>340 000 referencias cruzadas, y búsqueda rápida en cualquier texto que instale.</li>
+        <li>Resaltados, notas y etiquetas que aparecen en todas las traducciones.</li>
+        <li>Un diario y manuscritos de sermones, con sus notas sobre el pasaje a mano.</li>
+        <li>Planes de lectura, y una página Hoy con la lectura del día.</li>
+        <li>Capítulos y devocionales leídos en voz alta.</li>
+        <li>Pinturas, mapas y arqueología para el pasaje que lee, y las genealogías de la Biblia dibujadas como esquemas.</li>
+        <li>En inglés, español y ruso, con Biblias y diccionarios en cada idioma.</li>
+      </ul>
+      <p>Todo se queda en su ordenador, sin cuenta y sin rastreo. Scriptura solo se conecta a internet para descargar los textos que usted elija.</p>
+    </description>
+    <description xml:lang="ru">
+      <p>Scriptura помогает читать и изучать Библию на рабочем столе Linux. Читайте два перевода рядом, а вся библиотека для изучения в одном щелчке.</p>
+      <p>Оно объединяет:</p>
+      <ul>
+        <li>Два перевода рядом, которые листаются вместе, режим чтения без лишнего на экране и полноэкранный режим для проектора.</li>
+        <li>Греческий и еврейский текст за переводом: нажмите на слово, чтобы увидеть его значение и грамматику, или читайте подстрочник слово за словом.</li>
+        <li>Комментарии, книги для размышлений и исповедания веры, а также как Церковь читала каждый стих, от ранних отцов до реформаторов.</li>
+        <li>340 000 перекрёстных ссылок и быстрый поиск по любому установленному тексту.</li>
+        <li>Выделения, заметки и метки, видимые в каждом переводе.</li>
+        <li>Дневник и рукописи проповедей, а ваши заметки к отрывку всегда под рукой.</li>
+        <li>Планы чтения и страница «Сегодня» с чтением дня.</li>
+        <li>Главы и размышления вслух.</li>
+        <li>Картины, карты и археология к читаемому отрывку, а родословия Библии в виде схем.</li>
+        <li>На английском, испанском и русском, с Библиями и словарями на каждом языке.</li>
+      </ul>
+      <p>Всё хранится на вашем компьютере, без учётной записи и без слежки. Scriptura выходит в интернет, только чтобы скачать выбранные вами тексты.</p>
+    </description>
+    <developer id="io.github.andresmessina_sdg">
+      <name>Andres Messina</name>
+      <name xml:lang="es">Andres Messina</name>
+      <name xml:lang="ru">Андрес Мессина</name>
+    </developer>
+    <developer_name>Andres Messina</developer_name>
+    <launchable type="desktop-id">io.github.andresmessina_SDG.Scriptura.desktop</launchable>
+    <icon type="cached" width="48" height="48">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="64" height="64">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="64" height="64" scale="2">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="128" height="128">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="128" height="128" scale="2">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="stock">io.github.andresmessina_SDG.Scriptura</icon>
+    <url type="homepage">https://github.com/andresmessina-SDG/scriptura</url>
+    <url type="bugtracker">https://github.com/andresmessina-SDG/scriptura/issues</url>
+    <url type="donation">https://ko-fi.com/andresmessina</url>
+    <url type="vcs-browser">https://github.com/andresmessina-SDG/scriptura</url>
+    <url type="contribute">https://github.com/andresmessina-SDG/scriptura</url>
+    <categories>
+      <category>Education</category>
+      <category>Literature</category>
+    </categories>
+    <provides>
+      <mediatype>x-scheme-handler/bible</mediatype>
+    </provides>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Two-pane reading with the Strong&apos;s lexicon open on a Greek word</caption>
+        <caption xml:lang="es">Lectura a dos paneles con el léxico de Strong abierto en una palabra griega</caption>
+        <caption xml:lang="ru">Чтение в две панели с открытым словарём Стронга на греческом слове</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/01-two-pane-lexicon.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>The Greek New Testament interlinear, with meaning, grammar and Strong&apos;s number under every word</caption>
+        <caption xml:lang="es">El interlineal del Nuevo Testamento griego, con significado, gramática y número Strong bajo cada palabra</caption>
+        <caption xml:lang="ru">Подстрочник греческого Нового Завета: значение, грамматика и номер Стронга под каждым словом</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/06-interlinear-greek.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>Historical Commentaries: how the church read a verse across the centuries</caption>
+        <caption xml:lang="es">Comentarios históricos: cómo leyó la iglesia un versículo a lo largo de los siglos</caption>
+        <caption xml:lang="ru">Исторические толкования: как Церковь читала стих на протяжении веков</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/02-historical-commentaries.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>Annotations: every mark you have made, in one place</caption>
+        <caption xml:lang="es">Anotaciones: todas sus marcas, en un solo lugar</caption>
+        <caption xml:lang="ru">Пометки: все ваши отметки в одном месте</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/03-study-journal.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>Built-in reading plans with day-by-day progress</caption>
+        <caption xml:lang="es">Planes de lectura integrados con avance día a día</caption>
+        <caption xml:lang="ru">Встроенные планы чтения с отметками день за днём</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/04-reading-plan.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>Reading mode hides everything but the text</caption>
+        <caption xml:lang="es">El modo de lectura oculta todo menos el texto</caption>
+        <caption xml:lang="ru">Режим чтения скрывает всё, кроме текста</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/05-reading-mode-dark.png</image>
+      </screenshot>
+    </screenshots>
+    <keywords>
+      <keyword>Bible</keyword>
+      <keyword>Scripture</keyword>
+      <keyword>Study</keyword>
+      <keyword>SWORD</keyword>
+      <keyword>Lexicon</keyword>
+      <keyword>Strong&apos;s</keyword>
+      <keyword>Devotional</keyword>
+      <keyword>Commentary</keyword>
+    </keywords>
+    <keywords xml:lang="es">
+      <keyword>Biblia</keyword>
+      <keyword>Escritura</keyword>
+      <keyword>Estudio</keyword>
+      <keyword>SWORD</keyword>
+      <keyword>Léxico</keyword>
+      <keyword>Devocional</keyword>
+      <keyword>Comentario</keyword>
+    </keywords>
+    <keywords xml:lang="ru">
+      <keyword>Библия</keyword>
+      <keyword>Писание</keyword>
+      <keyword>Изучение</keyword>
+      <keyword>SWORD</keyword>
+      <keyword>Словарь</keyword>
+      <keyword>Ежедневное чтение</keyword>
+      <keyword>Комментарий</keyword>
+    </keywords>
+    <branding>
+      <color type="primary" scheme_preference="light">#8B6520</color>
+      <color type="primary" scheme_preference="dark">#C49B35</color>
+    </branding>
+    <releases>
+      <release type="stable" version="1.7.2" timestamp="1789603200">
+        <description>
+          <p>Your writing is kept safer, and the interlinears show more.</p>
+          <ul>
+            <li>A daily copy of your notes, journal and sermons is kept on this device. Restore keeps a copy of what it replaces.</li>
+            <li>Closing the app or logging out no longer loses the last sentence you typed.</li>
+            <li>Opening the app a second time no longer risks your notes. It brings the open window forward.</li>
+            <li>Find and replace in journal entries and sermons, with Ctrl+F.</li>
+            <li>The Greek interlinear can show the words other editions add or change.</li>
+            <li>The Hebrew interlinear can show the form the scribes wrote under the form that is read.</li>
+            <li>Type a verse reference in the GNOME search to see it and open it.</li>
+            <li>Ctrl+D bookmarks the chapter. Alt+[ and Alt+] go back and forward.</li>
+            <li>The annotations list shows the verse and updates itself.</li>
+            <li>Highlights sat one word late when footnotes were hidden. This is fixed.</li>
+          </ul>
+        </description>
+      </release>
+      <release type="stable" version="1.7.1" timestamp="1789430400">
+        <description>
+          <p>Fixes for writing sermons.</p>
+          <ul>
+            <li>Giving a sermon a series could close the app. This is fixed.</li>
+            <li>Typing in a long sermon no longer gets slower as the text grows.</li>
+            <li>Russian: the verse menu item for a new journal entry no longer reads as “add a bookmark”.</li>
+          </ul>
+        </description>
+      </release>
+      <release type="stable" version="1.7.0" timestamp="1789344000">
+        <description>
+          <p>A place to write: a journal, sermons, and a new Today page.</p>
+          <ul>
+            <li>A journal. Write an entry about one passage, several, or none, and add or remove passages later.</li>
+            <li>Sermons. Keep each sermon with its passages, its main idea, its series and the days you preached it. Print or export it on its own.</li>
+            <li>While you write a sermon, bring in your notes, highlights, verses, cross-references and word studies on the passage.</li>
+            <li>The Annotations window has three pages: Annotations, Journal and Sermons, each with its own search and filters.</li>
+            <li>Room to write, with buttons for bold, italic, headings, quotes and lists, and a word count.</li>
+            <li>Print, export and compare translations from the new ⋮ button, or with Ctrl+P, Ctrl+E and Ctrl+Shift+C. Before, they were only in the right-click menu.</li>
+            <li>The Today page shows the first verse of the day&apos;s reading, on a new parchment background.</li>
+            <li>Search finds your own notes and entries as well as Bible verses.</li>
+            <li>The right-click menu is shorter and grouped.</li>
+            <li>Fixed: double-clicking a word said “No entry” even with dictionaries installed, and a reading plan could say it was done when it was not.</li>
+          </ul>
+        </description>
+      </release>
+      <release type="stable" version="1.6.2" timestamp="1788998400">
+        <description>
+          <p>Your marks now show in every translation, and many fixes.</p>
+          <ul>
+            <li>Highlights, underlines, notes and tags now show in every translation, not only the one you made them in. The Study Journal is now called Annotations.</li>
+            <li>Export, print and copy work for Bibles from eBible, and marks made in them land on the right verse.</li>
+            <li>Psalm numbers are right in the Clementine Vulgate and the Russian Synodal Bible from eBible.</li>
+            <li>“Match case” no longer turns an OR search into an AND search.</li>
+            <li>A link to a book your Bible does not have now tells you which book is missing, instead of doing nothing.</li>
+            <li>The Orthodox Old Calendar is offered beside the New Calendar.</li>
+            <li>Russian readers get the Orthodox troparion in Church Slavonic, not in English.</li>
+            <li>Dates show in the app&apos;s language, not always in English.</li>
+            <li>A stray space before commas is gone from the Today page, devotionals, cross-references, dictionaries and collects.</li>
+            <li>Highlights cover the whole verse and stay beside the right text.</li>
+          </ul>
+        </description>
+      </release>
+    </releases>
+    <content_rating type="oars-1.1">
+      <content_attribute id="violence-cartoon">none</content_attribute>
+      <content_attribute id="violence-fantasy">none</content_attribute>
+      <content_attribute id="violence-realistic">none</content_attribute>
+      <content_attribute id="violence-bloodshed">none</content_attribute>
+      <content_attribute id="violence-sexual">none</content_attribute>
+      <content_attribute id="violence-desecration">none</content_attribute>
+      <content_attribute id="violence-slavery">none</content_attribute>
+      <content_attribute id="violence-worship">none</content_attribute>
+      <content_attribute id="drugs-alcohol">none</content_attribute>
+      <content_attribute id="drugs-narcotics">none</content_attribute>
+      <content_attribute id="drugs-tobacco">none</content_attribute>
+      <content_attribute id="sex-nudity">none</content_attribute>
+      <content_attribute id="sex-themes">none</content_attribute>
+      <content_attribute id="sex-homosexuality">none</content_attribute>
+      <content_attribute id="sex-prostitution">none</content_attribute>
+      <content_attribute id="sex-adultery">none</content_attribute>
+      <content_attribute id="sex-appearance">none</content_attribute>
+      <content_attribute id="language-profanity">none</content_attribute>
+      <content_attribute id="language-humor">none</content_attribute>
+      <content_attribute id="language-discrimination">none</content_attribute>
+      <content_attribute id="social-chat">none</content_attribute>
+      <content_attribute id="social-info">none</content_attribute>
+      <content_attribute id="social-audio">none</content_attribute>
+      <content_attribute id="social-location">none</content_attribute>
+      <content_attribute id="social-contacts">none</content_attribute>
+      <content_attribute id="money-purchasing">none</content_attribute>
+      <content_attribute id="money-gambling">none</content_attribute>
+    </content_rating>
+    <bundle type="flatpak" runtime="org.gnome.Platform/x86_64/50" sdk="org.gnome.Sdk/x86_64/50">app/io.github.andresmessina_SDG.Scriptura/x86_64/master</bundle>
+  </component>
+</components>
