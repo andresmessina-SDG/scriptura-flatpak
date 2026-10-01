@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<components version="0.8" origin="flatpak">
+  <component type="desktop-application">
+    <id>io.github.andresmessina_SDG.Scriptura</id>
+    <name>Scriptura</name>
+    <name xml:lang="es">Scriptura</name>
+    <name xml:lang="ru">Scriptura</name>
+    <summary>Read and study the Bible in depth</summary>
+    <summary xml:lang="es">Lea y estudie la Biblia a fondo</summary>
+    <summary xml:lang="ru">Читайте и изучайте Библию вглубь</summary>
+    <project_license>GPL-3.0-or-later</project_license>
+    <description>
+      <p>
+      Scriptura is a Bible study app for the Linux desktop. Read two
+      translations side by side, with a full study library a click away.
+    </p>
+      <p>It brings together:</p>
+      <ul>
+        <li>Two translations side by side that move together, a reading mode with nothing else on screen, and a full-screen mode for a projector.</li>
+        <li>The Greek and Hebrew behind the text: click a word for its meaning and grammar, or read an interlinear word by word.</li>
+        <li>Commentaries, devotionals and confessions, and how the church read each verse from the early fathers to the Reformers.</li>
+        <li>340,000 cross-references, and fast search across any text you install.</li>
+        <li>Highlights, notes and tags that show in every translation.</li>
+        <li>A journal and sermon manuscripts, with your notes on the passage close at hand.</li>
+        <li>Reading plans, and a Today page with the day&apos;s reading.</li>
+        <li>Chapters and devotionals read aloud.</li>
+        <li>The Bible Family Tree: where each English Bible came from, how literally it translates, and one verse read across them all.</li>
+        <li>Paintings, maps and archaeology for the passage you read, and the Bible&apos;s family lists drawn as charts.</li>
+        <li>English, Spanish and Russian, with Bibles and dictionaries in each.</li>
+      </ul>
+      <p>
+      Everything stays on your computer, with no account and no tracking.
+      Scriptura goes online only to download the texts you choose, to
+      check for updates when you open the Module Manager, and for spoken
+      readings, which you can turn off in Preferences.
+    </p>
+    </description>
+    <description xml:lang="es">
+      <p>Scriptura es una aplicación de estudio bíblico para el escritorio Linux. Lea dos traducciones lado a lado, con toda una biblioteca de estudio a un clic.</p>
+      <p>Reúne:</p>
+      <ul>
+        <li>Dos traducciones lado a lado que avanzan juntas, un modo de lectura sin nada más en pantalla y un modo a pantalla completa para proyector.</li>
+        <li>El griego y el hebreo detrás del texto: haga clic en una palabra para ver su significado y su gramática, o lea un interlineal palabra por palabra.</li>
+        <li>Comentarios, devocionales y confesiones, y cómo leyó la iglesia cada versículo, desde los primeros padres hasta los reformadores.</li>
+        <li>340 000 referencias cruzadas, y búsqueda rápida en cualquier texto que instale.</li>
+        <li>Resaltados, notas y etiquetas que aparecen en todas las traducciones.</li>
+        <li>Un diario y manuscritos de sermones, con sus notas sobre el pasaje a mano.</li>
+        <li>Planes de lectura, y una página Hoy con la lectura del día.</li>
+        <li>Capítulos y devocionales leídos en voz alta.</li>
+        <li>El árbol genealógico de la Biblia: de dónde viene cada Biblia inglesa, cuán literal es su traducción, y un versículo leído en todas ellas.</li>
+        <li>Pinturas, mapas y arqueología para el pasaje que lee, y las genealogías de la Biblia dibujadas como esquemas.</li>
+        <li>En inglés, español y ruso, con Biblias y diccionarios en cada idioma.</li>
+      </ul>
+      <p>Todo se queda en su ordenador, sin cuenta y sin rastreo. Scriptura solo se conecta a internet para descargar los textos que usted elija, para buscar actualizaciones cuando abre el Gestor de módulos y para las lecturas habladas, que puede desactivar en Preferencias.</p>
+    </description>
+    <description xml:lang="ru">
+      <p>Scriptura помогает читать и изучать Библию на рабочем столе Linux. Читайте два перевода рядом, а вся библиотека для изучения в одном щелчке.</p>
+      <p>Оно объединяет:</p>
+      <ul>
+        <li>Два перевода рядом, которые листаются вместе, режим чтения без лишнего на экране и полноэкранный режим для проектора.</li>
+        <li>Греческий и еврейский текст за переводом: нажмите на слово, чтобы увидеть его значение и грамматику, или читайте подстрочник слово за словом.</li>
+        <li>Комментарии, книги для размышлений и исповедания веры, а также как Церковь читала каждый стих, от ранних отцов до реформаторов.</li>
+        <li>340 000 перекрёстных ссылок и быстрый поиск по любому установленному тексту.</li>
+        <li>Выделения, заметки и метки, видимые в каждом переводе.</li>
+        <li>Дневник и рукописи проповедей, а ваши заметки к отрывку всегда под рукой.</li>
+        <li>Планы чтения и страница «Сегодня» с чтением дня.</li>
+        <li>Главы и размышления вслух.</li>
+        <li>Родословное древо Библии: откуда происходит каждая английская Библия, насколько буквален её перевод, и один стих во всех них.</li>
+        <li>Картины, карты и археология к читаемому отрывку, а родословия Библии в виде схем.</li>
+        <li>На английском, испанском и русском, с Библиями и словарями на каждом языке.</li>
+      </ul>
+      <p>Всё хранится на вашем компьютере, без учётной записи и без слежки. Scriptura выходит в интернет, только чтобы скачать выбранные вами тексты, проверить обновления, когда вы открываете Менеджер модулей, и для озвученных чтений, которые можно отключить в Параметрах.</p>
+    </description>
+    <developer id="io.github.andresmessina_sdg">
+      <name>Andres Messina</name>
+      <name xml:lang="es">Andres Messina</name>
+      <name xml:lang="ru">Андрес Мессина</name>
+    </developer>
+    <developer_name>Andres Messina</developer_name>
+    <launchable type="desktop-id">io.github.andresmessina_SDG.Scriptura.desktop</launchable>
+    <icon type="cached" width="48" height="48">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="64" height="64">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="64" height="64" scale="2">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="128" height="128">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="cached" width="128" height="128" scale="2">io.github.andresmessina_SDG.Scriptura.png</icon>
+    <icon type="stock">io.github.andresmessina_SDG.Scriptura</icon>
+    <url type="homepage">https://andresmessina-sdg.github.io/scriptura/</url>
+    <url type="bugtracker">https://github.com/andresmessina-SDG/scriptura/issues</url>
+    <url type="donation">https://ko-fi.com/andresmessina</url>
+    <url type="vcs-browser">https://github.com/andresmessina-SDG/scriptura</url>
+    <url type="contribute">https://github.com/andresmessina-SDG/scriptura</url>
+    <categories>
+      <category>Education</category>
+      <category>Literature</category>
+    </categories>
+    <provides>
+      <mediatype>x-scheme-handler/bible</mediatype>
+    </provides>
+    <screenshots>
+      <screenshot type="default">
+        <caption>One verse in every English Bible you have, with the Hebrew above, beside the Bible you are reading</caption>
+        <caption xml:lang="es">Un versículo en cada Biblia inglesa que tenga, con el hebreo encima, junto a la Biblia que lee</caption>
+        <caption xml:lang="ru">Один стих во всех ваших английских Библиях, с еврейским текстом над ними, рядом с Библией, которую вы читаете</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/01-read-the-difference.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>The Bible Family Tree: the English Bibles read today and the Bibles they came from</caption>
+        <caption xml:lang="es">El árbol genealógico de la Biblia: las Biblias inglesas que se leen hoy y las Biblias de las que vienen</caption>
+        <caption xml:lang="ru">Родословное древо Библии: английские Библии, которые читают сегодня, и Библии, от которых они произошли</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/02-bible-family-tree.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>The Greek New Testament word by word, with meaning, grammar and Strong&apos;s number under each word</caption>
+        <caption xml:lang="es">El Nuevo Testamento griego palabra por palabra, con el significado, la gramática y el número de Strong bajo cada palabra</caption>
+        <caption xml:lang="ru">Греческий Новый Завет слово за словом, со значением, грамматикой и номером Стронга под каждым словом</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/03-interlinear-greek.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>Voices of the Church: what the fathers and the Reformers wrote on the verse you are reading</caption>
+        <caption xml:lang="es">Voces de la Iglesia: lo que los padres y los reformadores escribieron sobre el versículo que lee</caption>
+        <caption xml:lang="ru">Голоса Церкви: что писали отцы и реформаторы о стихе, который вы читаете</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/04-voices-of-the-church.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>Art for the passage: Caravaggio&apos;s Calling of Saint Matthew beside Matthew 9</caption>
+        <caption xml:lang="es">Arte para el pasaje: la Vocación de san Mateo de Caravaggio junto a Mateo 9</caption>
+        <caption xml:lang="ru">Искусство к отрывку: «Призвание апостола Матфея» Караваджо рядом с Матфея 9</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/05-scripture-in-art.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>Write a sermon beside the passage, with its series, dates and verses</caption>
+        <caption xml:lang="es">Escriba un sermón junto al pasaje, con su serie, sus fechas y sus versículos</caption>
+        <caption xml:lang="ru">Пишите проповедь рядом с отрывком, с её серией, датами и стихами</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/06-sermon-writing.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>Reading mode hides everything but the text</caption>
+        <caption xml:lang="es">El modo de lectura oculta todo menos el texto</caption>
+        <caption xml:lang="ru">Режим чтения скрывает всё, кроме текста</caption>
+        <image type="source" width="1366" height="733">https://raw.githubusercontent.com/andresmessina-SDG/scriptura/main/data/screenshots/07-reading-mode-dark.png</image>
+      </screenshot>
+    </screenshots>
+    <keywords>
+      <keyword>Bible</keyword>
+      <keyword>Scripture</keyword>
+      <keyword>Study</keyword>
+      <keyword>SWORD</keyword>
+      <keyword>Lexicon</keyword>
+      <keyword>Strong&apos;s</keyword>
+      <keyword>Devotional</keyword>
+      <keyword>Commentary</keyword>
+    </keywords>
+    <keywords xml:lang="es">
+      <keyword>Biblia</keyword>
+      <keyword>Escritura</keyword>
+      <keyword>Estudio</keyword>
+      <keyword>SWORD</keyword>
+      <keyword>Léxico</keyword>
+      <keyword>Devocional</keyword>
+      <keyword>Comentario</keyword>
+    </keywords>
+    <keywords xml:lang="ru">
+      <keyword>Библия</keyword>
+      <keyword>Писание</keyword>
+      <keyword>Изучение</keyword>
+      <keyword>SWORD</keyword>
+      <keyword>Словарь</keyword>
+      <keyword>Ежедневное чтение</keyword>
+      <keyword>Комментарий</keyword>
+    </keywords>
+    <branding>
+      <color type="primary" scheme_preference="light">#8B6520</color>
+      <color type="primary" scheme_preference="dark">#C49B35</color>
+    </branding>
+    <releases>
+      <release type="stable" version="1.8.3" timestamp="1790726400">
+        <description>
+          <p>The Creeds, and Scripture in Stone in its sources&apos; words.</p>
+          <ul>
+            <li>The Creeds: the Apostles&apos;, Nicene, Chalcedonian and Athanasian Creeds, each line drawn to the verses it comes from.</li>
+            <li>Pick a line to follow its threads into the Bible, or a book to see which lines rest on it.</li>
+            <li>Each creed sits beside its Greek or Latin original, with old English words explained.</li>
+            <li>Disputed lines, and words the Bible does not use, are explained in the words of the Fathers and the confessions.</li>
+            <li>A verse a creed quotes carries a small mark that opens the creed at that line.</li>
+            <li>Scripture in Stone quotes each stone, or an old witness to it, checked word for word.</li>
+            <li>Every verse an artifact bears on shows its text and how the two are linked.</li>
+            <li>Contested readings are marked, and the titles are set in the serif.</li>
+          </ul>
+        </description>
+      </release>
+      <release type="stable" version="1.8.2" timestamp="1790726400">
+        <description>
+          <p>Spanish and Russian beyond the menus, and the Bible Family Tree in the Module Manager.</p>
+          <ul>
+            <li>In Spanish or Russian, a Strong&apos;s entry also shows how a Bible in that language renders the word.</li>
+            <li>The places named in a verse take the names a Spanish or Russian Bible gives them.</li>
+            <li>Three maps come in Spanish and two in Russian, with an update to the imagery pack.</li>
+            <li>The Module Manager shows where each English Bible sits from word for word to free, and opens its card.</li>
+            <li>Search finds the deuterocanon: Tobit, Sirach, the Maccabees and the rest.</li>
+            <li>A reading plan that ran out can begin again from today, keeping the days you read.</li>
+            <li>Bibles that number the Psalms like the Vulgate show the psalm the header names.</li>
+            <li>A tip, shown once, says where the footnote switches are.</li>
+            <li>Scripture in Stone and the genealogy pages have their wider line spacing back.</li>
+            <li>Downloads name Scriptura, where some claimed to be a web browser.</li>
+          </ul>
+        </description>
+      </release>
+      <release type="stable" version="1.8.1" timestamp="1790640000">
+        <description>
+          <p>A writing page that reads like a page, and a view to preach from.</p>
+          <ul>
+            <li>Writing looks like a page: Markdown symbols fold away once you leave a line.</li>
+            <li>Paragraph styles and a choice of font for your journal and sermons.</li>
+            <li>Tables in the journal and sermons, with Tab to move between cells.</li>
+            <li>Preach from a sermon: F5 shows it full screen in large type, with a timer.</li>
+            <li>Pasting from a web page or word processor keeps headings, lists, bold and italic.</li>
+            <li>Click a verse&apos;s note number to read the note on the page.</li>
+            <li>Read the difference follows the Bible beside it.</li>
+            <li>Reduce motion in GNOME Settings is now honoured.</li>
+            <li>The Today page and startup open without jumps and keep your place.</li>
+            <li>Esc behaves in the Annotations window, and word study counts from interlinears.</li>
+          </ul>
+        </description>
+      </release>
+      <release type="stable" version="1.8.0" timestamp="1790380800">
+        <description>
+          <p>The Bible Family Tree, and downloads that look after themselves.</p>
+          <ul>
+            <li>The Bible Family Tree draws the English Bibles people read, and the Bibles they came from, down the page in time. Print it as a poster.</li>
+            <li>The Line places every English Bible from word for word to free. Filter it by what you have, by tradition and by era.</li>
+            <li>Read the difference shows one verse in every Bible you have, with the Greek or Hebrew above it.</li>
+            <li>Each English Bible has a card: where it sits on the Line, the Bibles it came from, and the source of every fact.</li>
+            <li>Compare lists its Bibles from word for word to free, and finds the right verse in Bibles that number the Psalms differently.</li>
+            <li>Downloads wait their turn, show their progress, can be cancelled, and pick up where they stopped.</li>
+            <li>The Module Manager checks for updates when its lists are a week old, and a dot on the menu says when one is waiting.</li>
+            <li>Every download is checked for damage before it is installed.</li>
+            <li>The menu now holds only places, and a Preferences window holds the settings you set once.</li>
+            <li>Scriptura has a website, in English, Spanish and Russian.</li>
+          </ul>
+        </description>
+      </release>
+    </releases>
+    <content_rating type="oars-1.1">
+      <content_attribute id="violence-cartoon">none</content_attribute>
+      <content_attribute id="violence-fantasy">none</content_attribute>
+      <content_attribute id="violence-realistic">none</content_attribute>
+      <content_attribute id="violence-bloodshed">none</content_attribute>
+      <content_attribute id="violence-sexual">none</content_attribute>
+      <content_attribute id="violence-desecration">none</content_attribute>
+      <content_attribute id="violence-slavery">none</content_attribute>
+      <content_attribute id="violence-worship">none</content_attribute>
+      <content_attribute id="drugs-alcohol">none</content_attribute>
+      <content_attribute id="drugs-narcotics">none</content_attribute>
+      <content_attribute id="drugs-tobacco">none</content_attribute>
+      <content_attribute id="sex-nudity">none</content_attribute>
+      <content_attribute id="sex-themes">none</content_attribute>
+      <content_attribute id="sex-homosexuality">none</content_attribute>
+      <content_attribute id="sex-prostitution">none</content_attribute>
+      <content_attribute id="sex-adultery">none</content_attribute>
+      <content_attribute id="sex-appearance">none</content_attribute>
+      <content_attribute id="language-profanity">none</content_attribute>
+      <content_attribute id="language-humor">none</content_attribute>
+      <content_attribute id="language-discrimination">none</content_attribute>
+      <content_attribute id="social-chat">none</content_attribute>
+      <content_attribute id="social-info">none</content_attribute>
+      <content_attribute id="social-audio">none</content_attribute>
+      <content_attribute id="social-location">none</content_attribute>
+      <content_attribute id="social-contacts">none</content_attribute>
+      <content_attribute id="money-purchasing">none</content_attribute>
+      <content_attribute id="money-gambling">none</content_attribute>
+    </content_rating>
+    <bundle type="flatpak" runtime="org.gnome.Platform/x86_64/50" sdk="org.gnome.Sdk/x86_64/50">app/io.github.andresmessina_SDG.Scriptura/x86_64/master</bundle>
+  </component>
+</components>
